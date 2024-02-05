@@ -11,13 +11,13 @@ const questions = [
   },
   {
     type: "input",
+    name: "description",
     message: "Please enter a short description about your project:",
-    name: "About",
   },
   {
     type: "input",
-    message: "What are the installation instructions for your project?",
     name: "installation",
+    message: "What are the installation instructions for your project?",
   },
   {
     type: "input",
@@ -26,7 +26,7 @@ const questions = [
   },
   {
     type: "input",
-    name: "test",
+    name: "tests",
     message: "What User should do to test the app?",
   },
   {
@@ -37,12 +37,17 @@ const questions = [
   },
   {
     type: "input",
-    name: "userName",
+    name: "contributing",
+    message: "Is there any other contributor for this project?",
+  },
+  {
+    type: "input",
+    name: "github",
     message: "What is your GitHub username?",
   },
   {
     type: "input",
-    name: "userEmail",
+    name: "email",
     message: "What is your email?",
   },
 ];
