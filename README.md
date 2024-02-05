@@ -72,7 +72,7 @@ git@github.com:prodeveloper2023/Readme-Generator.git
 
 ## Tests
 
-In the terminal locate the index.js file, 'npm init -y, will initialise the json file followed by 'npm install inquirer' to install the inquirer dependency in order to run the app.In the terminal type 'node index.js' Answer all the question and an 'newReadMe.md' will be generated. Tests are done through the terminal and a walkthrough screen recording is provided.
+In the terminal locate the index.js file, 'npm init -y, will initialise the json file followed by 'npm install inquirer' to install the inquirer dependency in order to run the app.In the terminal type 'node index.js' Answer all the question and an 'newReadMe.md' will be generated. Tests are done through the terminal and a walkthrough screen recording is provided. Walkthrough video link is : https://drive.google.com/file/d/1hJ5Hi31y5WcH4eBqit8fYYdDV_Vk78ma/view
 
 ---
 
