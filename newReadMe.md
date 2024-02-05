@@ -1,11 +1,9 @@
-# A Professional readme generator
+# Professional readme generator
 
 ## Description
-
-A command line application that dynamically generate a professional Readme.md from a user input using the inquirer package.
+A command-line application that dynamically generates a professional README.md from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer).
 
 ## Table of Contents
-
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
@@ -14,28 +12,21 @@ A command line application that dynamically generate a professional Readme.md fr
 - [Questions](#questions)
 
 ## Installation
-
-npm install inquirer in the terminal
+npm install inquirer
 
 ## Usage
-
-This is a command line application and will require inquirer dependency to run the app. After answering all questions the user should be presesnted with a newReadMe.md file.
+answer all question and a readme is generated with the input content
 
 ## License
-
 This project is licensed under the MIT license.
 
 ## Contributing
-
 N/A
 
 ## Tests
-
-in order to test after package installation user should run "node index.js" in the terminal
+run it in terminal using command node index.js
 
 ## Questions
-
 If you have any questions, please feel free to contact me:
-
 - GitHub: [prodeveloper2023](https://github.com/prodeveloper2023)
 - Email: palindrome1988@gmail.com
